@@ -38,7 +38,7 @@ Then push the repo upstream
 
 That's it, you can now checkout your application at:
 
-	http://redmine-$yourlogin.rhcloud.com
+	http://redmine-$yournamespace.rhcloud.com
 
 Use the following to login to your new redmine application running on openshift
 
